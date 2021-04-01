@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Yale University (2021-2023)
-* B.S. in Computer Science and Linguistics, University of Illinois at Urbana-Champaign (2019-2021)
+* **Yale University** (2021-2023)
+  * M.S. in Computer Science
+* **University of Illinois at Urbana-Champaign** (2019-2021)
+  * B.S. in Computer Science and Linguistics
 
 Work Experience
 ====== 
