@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Arjun Nair"
-  avatar           : "profile.png"
-  bio              : "WIP #2"
-  location         : "Oakbrook, IL"
-  employer         :
+  avatar           : "1616595055419.jpeg"
+  bio              : "Incoming Yale M.S. student. Graduating from UIUC this semester with a B.S."
+  location         : "Illinois"
+  employer         : National Center for Supercomputing Applications
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "arjunvnair@hotmail.com"
+  email            : "arjun.nair@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
